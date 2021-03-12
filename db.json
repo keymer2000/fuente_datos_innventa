@@ -1,15 +1,15 @@
 {
     "usuarios":[
         {
-            "id": 1,
-            "tipodoc": "",
-            "identificacion": "",
-            "nombres": "",
-            "apellidos": "",
-            "nacionalidad": "",
-            "celular": "",
-            "email": "",
-            "administrador": ""
-        }
+            "tipodoc": "CC",
+            "identificacion": "1092334126",
+            "nombres": "keymer",
+            "apellidos": "jimenez",
+            "nacionalidad": "Colombia",
+            "celular": "3014534664",
+            "email": "keimeralexanderj@gmail.com",
+            "administrador": "daniel"
+          }
     ]
 }
+
