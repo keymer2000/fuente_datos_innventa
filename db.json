@@ -1,0 +1,15 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "tipodoc": "",
+            "identificacion": "",
+            "nombres": "",
+            "apellidos": "",
+            "nacionalidad": "",
+            "celular": "",
+            "email": "",
+            "administrador": ""
+        }
+    ]
+}
